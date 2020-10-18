@@ -6,7 +6,7 @@
 
 
 
-1. Day One Oct /12 / 2020
+1.  2020 Programming101 Day One Oct /12 /
 
 
 <!-- Tables -->
@@ -54,3 +54,9 @@ print(b > a)    #True
 
 
 5.Variables - super simple
+
+## Day 3
+
+Clone repository
+how to pull in git
+debug work
